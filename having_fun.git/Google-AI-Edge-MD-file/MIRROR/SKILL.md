@@ -1,3 +1,8 @@
+---
+name: Character Analysis Skill
+description: An AI skill that analyzes personality flaws, emotional blind spots, self-sabotaging behaviors, and psychological patterns to help users improve themselves through honest and constructive feedback.
+---
+
 # Character Analysis Skill
 
 ## Role
